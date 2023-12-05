@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\netcore\answer\bin\Debug\net8.0\answer.exe
+C:\Users\user\Desktop\netcore\answer\bin\Debug\net8.0\answer.deps.json
+C:\Users\user\Desktop\netcore\answer\bin\Debug\net8.0\answer.runtimeconfig.json
+C:\Users\user\Desktop\netcore\answer\bin\Debug\net8.0\answer.dll
+C:\Users\user\Desktop\netcore\answer\bin\Debug\net8.0\answer.pdb
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.AssemblyInfo.cs
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.dll
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\refint\answer.dll
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.pdb
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\answer.genruntimeconfig.cache
+C:\Users\user\Desktop\netcore\answer\obj\Debug\net8.0\ref\answer.dll
